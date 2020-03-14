@@ -1,0 +1,1 @@
+console.log('02_2/web.js');
